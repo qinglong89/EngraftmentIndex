@@ -1,0 +1,409 @@
+label,tcdA_structure,isolate_source,mlst_edited,mlst_edited_highlight
+GCF_002812585.1,Other,NCBI RefSeq,1,ST1
+GCF_002945415.1,Other,NCBI RefSeq,1,ST1
+GCF_002945515.1,Other,NCBI RefSeq,1,ST1
+GCF_002945665.1,Other,NCBI RefSeq,1,ST1
+GCF_002945755.1,Other,NCBI RefSeq,1,ST1
+GCF_002945855.1,Other,NCBI RefSeq,1,ST1
+GCF_002945945.1,Other,NCBI RefSeq,1,ST1
+GCF_002946035.1,Other,NCBI RefSeq,1,ST1
+GCF_002946135.1,Other,NCBI RefSeq,1,ST1
+GCF_002946195.1,Other,NCBI RefSeq,1,ST1
+GCF_003313545.1,Other,NCBI RefSeq,1,ST1
+GCF_003313585.1,Other,NCBI RefSeq,1,ST1
+GCF_003482035.1,Other,NCBI RefSeq,1,ST1
+GCF_003597795.1,Other,NCBI RefSeq,1,ST1
+GCF_003597815.1,Other,NCBI RefSeq,1,ST1
+GCF_003597835.1,Other,NCBI RefSeq,1,ST1
+GCF_003597895.1,Other,NCBI RefSeq,1,ST1
+GCF_003597915.1,Other,NCBI RefSeq,1,ST1
+GCF_009730495.1,Other,NCBI RefSeq,1,ST1
+GCF_018255775.1,Other,NCBI RefSeq,1,ST1
+GCF_902386365.1,Other,NCBI RefSeq,1,ST1
+SRR9165177,Other,BTH (adult asymptomatic CDI),1,ST1
+SRR7192372,Other,BTH (adult symptomatic CDI),1,ST1
+SRR7192391,Other,BTH (adult symptomatic CDI),1,ST1
+SRR9165149,Other,BTH (adult symptomatic CDI),1,ST1
+SRR9165183,Other,BTH (adult symptomatic CDI),1,ST1
+SRR9165189,Other,BTH (adult symptomatic CDI),1,ST1
+SRR9165205,Other,BTH (adult symptomatic CDI),1,ST1
+SRR9165206,Other,BTH (adult symptomatic CDI),1,ST1
+SRR9165242,Other,BTH (adult symptomatic CDI),1,ST1
+SRR9165249,Other,BTH (adult symptomatic CDI),1,ST1
+SRR9165121,Other,TCH (pediatric symptomatic CDI),1,ST1
+SRR9165124,Other,TCH (pediatric symptomatic CDI),1,ST1
+SRR9165126,Other,TCH (pediatric symptomatic CDI),1,ST1
+SRR9165167,Other,TCH (pediatric symptomatic CDI),1,ST1
+SRR9165221,Other,TCH (pediatric symptomatic CDI),1,ST1
+SRR9165229,Other,TCH (pediatric symptomatic CDI),1,ST1
+SRR9165232,Other,TCH (pediatric symptomatic CDI),1,ST1
+SRR9165247,Other,TCH (pediatric symptomatic CDI),1,ST1
+SRR9165248,Other,TCH (pediatric symptomatic CDI),1,ST1
+GCF_001577795.1,Other,NCBI RefSeq,2,ST2
+GCF_002812625.1,Other,NCBI RefSeq,2,ST2
+GCF_018884745.1,Other,NCBI RefSeq,2,ST2
+GCF_018885005.1,Other,NCBI RefSeq,2,ST2
+GCF_018885065.1,Other,NCBI RefSeq,2,ST2
+SRR7192375,Other,BTH (adult asymptomatic CDI),2,ST2
+SRR7192393,Other,BTH (adult asymptomatic CDI),2,ST2
+SRR9165152,Other,BTH (adult asymptomatic CDI),2,ST2
+SRR7192389,Other,BTH (adult symptomatic CDI),2,ST2
+SRR7192390,Other,BTH (adult symptomatic CDI),2,ST2
+SRR9165134,Other,BTH (adult symptomatic CDI),2,ST2
+SRR9165137,Other,BTH (adult symptomatic CDI),2,ST2
+SRR9165173,Other,BTH (adult symptomatic CDI),2,ST2
+SRR9165181,Other,BTH (adult symptomatic CDI),2,ST2
+SRR9165204,Other,BTH (adult symptomatic CDI),2,ST2
+SRR9165208,Other,BTH (adult symptomatic CDI),2,ST2
+SRR9165209,Other,BTH (adult symptomatic CDI),2,ST2
+SRR9165211,Other,BTH (adult symptomatic CDI),2,ST2
+SRR9165228,Other,BTH (adult symptomatic CDI),2,ST2
+SRR9165240,Other,BTH (adult symptomatic CDI),2,ST2
+SRR9165243,Other,BTH (adult symptomatic CDI),2,ST2
+SRR9165107,Other,TCH (pediatric symptomatic CDI),2,ST2
+SRR9165108,Other,TCH (pediatric symptomatic CDI),2,ST2
+SRR9165111,Other,TCH (pediatric symptomatic CDI),2,ST2
+SRR9165115,Other,TCH (pediatric symptomatic CDI),2,ST2
+SRR9165120,Other,TCH (pediatric symptomatic CDI),2,ST2
+SRR9165139,Other,TCH (pediatric symptomatic CDI),2,ST2
+SRR9165147,Other,TCH (pediatric symptomatic CDI),2,ST2
+SRR9165156,Other,TCH (pediatric symptomatic CDI),2,ST2
+SRR9165158,Other,TCH (pediatric symptomatic CDI),2,ST2
+SRR9165159,Other,TCH (pediatric symptomatic CDI),2,ST2
+SRR9165161,Other,TCH (pediatric symptomatic CDI),2,ST2
+SRR9165163,Other,TCH (pediatric symptomatic CDI),2,ST2
+SRR9165200,Other,TCH (pediatric symptomatic CDI),2,ST2
+SRR9165214,Other,TCH (pediatric symptomatic CDI),2,ST2
+SRR9165236,Other,TCH (pediatric symptomatic CDI),2,ST2
+GCF_002812645.1,Other,NCBI RefSeq,8,ST8
+GCF_018885085.1,Other,NCBI RefSeq,8,ST8
+SRR7192386,Other,BTH (adult symptomatic CDI),8,ST8
+SRR7192394,Other,BTH (adult symptomatic CDI),8,ST8
+SRR9165133,Other,BTH (adult symptomatic CDI),8,ST8
+SRR9165138,Other,BTH (adult symptomatic CDI),8,ST8
+SRR9165184,Other,BTH (adult symptomatic CDI),8,ST8
+SRR9165106,Other,TCH (pediatric symptomatic CDI),8,ST8
+SRR9165118,Other,TCH (pediatric symptomatic CDI),8,ST8
+SRR9165123,Other,TCH (pediatric symptomatic CDI),8,ST8
+SRR9165144,Other,TCH (pediatric symptomatic CDI),8,ST8
+SRR9165188,Other,TCH (pediatric symptomatic CDI),8,ST8
+SRR9165191,Other,TCH (pediatric symptomatic CDI),8,ST8
+SRR9165193,Other,TCH (pediatric symptomatic CDI),8,ST8
+SRR9165216,Other,TCH (pediatric symptomatic CDI),8,ST8
+SRR9165238,Other,TCH (pediatric symptomatic CDI),8,ST8
+GCF_002946515.2,Other,NCBI RefSeq,11,ST11
+GCF_002946535.2,Other,NCBI RefSeq,11,ST11
+GCF_002946555.2,Other,NCBI RefSeq,11,ST11
+GCF_003482165.1,Other,NCBI RefSeq,11,ST11
+GCF_003482365.1,Other,NCBI RefSeq,11,ST11
+GCF_003697205.1,Other,NCBI RefSeq,11,ST11
+GCF_003697225.1,Other,NCBI RefSeq,11,ST11
+GCF_009362915.1,Other,NCBI RefSeq,11,ST11
+GCF_015732535.1,Other,NCBI RefSeq,11,ST11
+GCF_016766955.1,Other,NCBI RefSeq,11,ST11
+GCF_016766975.1,Other,NCBI RefSeq,11,ST11
+GCF_016767015.1,Other,NCBI RefSeq,11,ST11
+GCF_016767035.1,Other,NCBI RefSeq,11,ST11
+GCF_016767055.1,Other,NCBI RefSeq,11,ST11
+GCF_016767095.1,Other,NCBI RefSeq,11,ST11
+GCF_016767115.1,Other,NCBI RefSeq,11,ST11
+GCF_016767135.1,Other,NCBI RefSeq,11,ST11
+GCF_018603395.1,Other,NCBI RefSeq,11,ST11
+GCF_018603455.1,Other,NCBI RefSeq,11,ST11
+GCF_018603475.1,Other,NCBI RefSeq,11,ST11
+GCF_018884725.1,Other,NCBI RefSeq,11,ST11
+GCF_019931025.1,Other,NCBI RefSeq,11,ST11
+SRR7192380,Other,BTH (adult asymptomatic CDI),11,ST11
+SRR7192381,Other,BTH (adult asymptomatic CDI),11,ST11
+SRR7192384,Other,BTH (adult asymptomatic CDI),11,ST11
+SRR7192385,Other,BTH (adult asymptomatic CDI),11,ST11
+SRR7192366,Other,BTH (adult symptomatic CDI),11,ST11
+SRR7192367,Other,BTH (adult symptomatic CDI),11,ST11
+SRR7192368,Other,BTH (adult symptomatic CDI),11,ST11
+SRR7192369,Other,BTH (adult symptomatic CDI),11,ST11
+GCF_003095675.1,Other,NCBI RefSeq,37,ST37
+GCF_003095695.1,Other,NCBI RefSeq,37,ST37
+GCF_003482255.1,Other,NCBI RefSeq,37,ST37
+GCF_019095765.1,Other,NCBI RefSeq,37,ST37
+SRR7192370,Other,BTH (adult symptomatic CDI),37,ST37
+SRR9165132,Other,TCH (pediatric symptomatic CDI),37,ST37
+SRR9165162,Other,TCH (pediatric symptomatic CDI),37,ST37
+SRR9165165,Other,TCH (pediatric symptomatic CDI),37,ST37
+SRR9165187,Other,TCH (pediatric symptomatic CDI),37,ST37
+SRR9165199,Other,TCH (pediatric symptomatic CDI),37,ST37
+SRR9165201,Other,TCH (pediatric symptomatic CDI),37,ST37
+SRR9165202,Other,TCH (pediatric symptomatic CDI),37,ST37
+SRR9165224,Other,TCH (pediatric symptomatic CDI),37,ST37
+SRR9165245,Other,TCH (pediatric symptomatic CDI),37,ST37
+SRR9165255,Other,TCH (pediatric symptomatic CDI),37,ST37
+GCF_002007885.1,Other,NCBI RefSeq,42,ST42
+GCF_002234355.1,Other,NCBI RefSeq,42,ST42
+GCF_002812605.1,Other,NCBI RefSeq,42,ST42
+GCF_018884645.1,Other,NCBI RefSeq,42,ST42
+GCF_018884685.1,Other,NCBI RefSeq,42,ST42
+GCF_018884805.1,Other,NCBI RefSeq,42,ST42
+GCF_018884825.1,Other,NCBI RefSeq,42,ST42
+SRR7192376,Other,BTH (adult asymptomatic CDI),42,ST42
+SRR7192378,Other,BTH (adult asymptomatic CDI),42,ST42
+SRR7192383,Other,BTH (adult asymptomatic CDI),42,ST42
+SRR7192379,Other,BTH (adult symptomatic CDI),42,ST42
+SRR7192387,Other,BTH (adult symptomatic CDI),42,ST42
+SRR9165244,Other,BTH (adult symptomatic CDI),42,ST42
+SRR9165128,Other,TCH (pediatric symptomatic CDI),42,ST42
+SRR9165130,Other,TCH (pediatric symptomatic CDI),42,ST42
+SRR9165136,Other,TCH (pediatric symptomatic CDI),42,ST42
+SRR9165143,Other,TCH (pediatric symptomatic CDI),42,ST42
+SRR9165154,Other,TCH (pediatric symptomatic CDI),42,ST42
+SRR9165164,Other,TCH (pediatric symptomatic CDI),42,ST42
+SRR9165170,Other,TCH (pediatric symptomatic CDI),42,ST42
+SRR9165195,Other,TCH (pediatric symptomatic CDI),42,ST42
+SRR9165220,Other,TCH (pediatric symptomatic CDI),42,ST42
+SRR9165226,Other,TCH (pediatric symptomatic CDI),42,ST42
+SRR9165230,Other,TCH (pediatric symptomatic CDI),42,ST42
+SRR9165231,Other,TCH (pediatric symptomatic CDI),42,ST42
+SRR9165250,Other,TCH (pediatric symptomatic CDI),42,ST42
+SRR9165251,Other,TCH (pediatric symptomatic CDI),42,ST42
+SRR9165252,Other,TCH (pediatric symptomatic CDI),42,ST42
+P8-1,Other,TCH (FMT for CDI),42,ST42
+GCF_002073735.2,Other,NCBI RefSeq,3,Other
+GCF_002954015.1,Other,NCBI RefSeq,3,Other
+GCF_003482345.1,Other,NCBI RefSeq,3,Other
+GCF_018884625.1,Other,NCBI RefSeq,3,Other
+GCF_018884705.1,Other,NCBI RefSeq,3,Other
+GCF_020341515.1,Other,NCBI RefSeq,3,Other
+SRR7192374,Other,BTH (adult symptomatic CDI),3,Other
+SRR7192395,Other,BTH (adult symptomatic CDI),3,Other
+SRR9165182,Other,BTH (adult symptomatic CDI),3,Other
+SRR9165190,Other,BTH (adult symptomatic CDI),3,Other
+SRR9165253,Other,BTH (adult symptomatic CDI),3,Other
+SRR9165194,Other,TCH (pediatric symptomatic CDI),3,Other
+SRR9165215,Other,TCH (pediatric symptomatic CDI),3,Other
+SRR9165127,Other,TCH (pediatric symptomatic CDI),4,Other
+GCF_003456975.1,Other,NCBI RefSeq,5,Other
+GCF_003457015.1,Other,NCBI RefSeq,5,Other
+GCF_003457035.1,Other,NCBI RefSeq,5,Other
+SRR7192388,Other,BTH (adult symptomatic CDI),6,Other
+SRR9165112,Other,TCH (pediatric symptomatic CDI),6,Other
+SRR9165175,Other,TCH (pediatric symptomatic CDI),6,Other
+SRR9165219,Other,TCH (pediatric symptomatic CDI),6,Other
+SRR9165225,Other,TCH (pediatric symptomatic CDI),6,Other
+GCF_018884785.1,Other,NCBI RefSeq,10,Other
+GCF_018884845.1,Other,NCBI RefSeq,10,Other
+GCF_018884905.1,Other,NCBI RefSeq,10,Other
+GCF_018885025.1,Other,NCBI RefSeq,10,Other
+SRR7192392,Other,BTH (adult symptomatic CDI),10,Other
+SRR7192396,Other,BTH (adult symptomatic CDI),10,Other
+GCF_018884765.1,Other,NCBI RefSeq,14,Other
+SRR9165210,Other,BTH (adult symptomatic CDI),14,Other
+SRR9165196,Other,TCH (pediatric symptomatic CDI),14,Other
+SRR9165218,Other,TCH (pediatric symptomatic CDI),14,Other
+GCF_003481905.1,Other,NCBI RefSeq,15,Other
+SRR9165254,Other,TCH (pediatric symptomatic CDI),15,Other
+SRR9165157,Other,TCH (pediatric symptomatic CDI),17,Other
+GCF_003597855.1,Other,NCBI RefSeq,21,Other
+SRR9165131,Other,TCH (pediatric symptomatic CDI),21,Other
+SRR9165223,Other,TCH (pediatric symptomatic CDI),21,Other
+SRR9165117,Other,TCH (pediatric symptomatic CDI),26,Other
+SRR9165151,Other,TCH (pediatric symptomatic CDI),26,Other
+SRR9165217,Other,TCH (pediatric symptomatic CDI),26,Other
+SRR9165168,Other,BTH (adult asymptomatic CDI),28,Other
+GCF_008245165.1,Other,NCBI RefSeq,34,Other
+GCF_018885105.1,Other,NCBI RefSeq,34,Other
+SRR9165203,Other,BTH (adult symptomatic CDI),34,Other
+SRR9165148,Other,TCH (pediatric symptomatic CDI),34,Other
+SRR9165234,Other,TCH (pediatric symptomatic CDI),34,Other
+SRR9165142,Other,TCH (pediatric symptomatic CDI),35,Other
+SRR9165160,Other,TCH (pediatric symptomatic CDI),35,Other
+SRR9165222,Other,TCH (pediatric symptomatic CDI),35,Other
+SRR7192382,Other,BTH (adult asymptomatic CDI),36,Other
+GCF_003482225.1,Other,NCBI RefSeq,38,Other
+GCF_003482305.1,Other,NCBI RefSeq,39,Other
+GCA_002891495.1,P6-1_like,NCBI GenBank,41,Other
+GCA_018892995.1,P6-1_like,NCBI GenBank,41,Other
+GCA_019170645.2,P6-1_like,NCBI GenBank,41,Other
+GCA_019171605.2,P6-1_like,NCBI GenBank,41,Other
+GCA_019172005.2,P6-1_like,NCBI GenBank,41,Other
+GCA_019174125.2,P6-1_like,NCBI GenBank,41,Other
+GCA_019744755.1,P6-1_like,NCBI GenBank,41,Other
+GCA_019765215.1,P6-1_like,NCBI GenBank,41,Other
+GCA_019766035.1,P6-1_like,NCBI GenBank,41,Other
+GCA_019766535.1,P6-1_like,NCBI GenBank,41,Other
+GCA_019767895.1,P6-1_like,NCBI GenBank,41,Other
+GCA_021360755.2,P6-1_like,NCBI GenBank,41,Other
+SRR9165213,Other,BTH (adult symptomatic CDI),41,Other
+SRR9165237,Other,BTH (adult symptomatic CDI),41,Other
+SRR9165114,Other,TCH (pediatric symptomatic CDI),41,Other
+SRR9165129,Other,TCH (pediatric symptomatic CDI),41,Other
+SRR9165192,Other,TCH (pediatric symptomatic CDI),41,Other
+GCF_018884865.1,Other,NCBI RefSeq,43,Other
+GCF_018884925.1,Other,NCBI RefSeq,43,Other
+GCF_018884945.1,Other,NCBI RefSeq,43,Other
+SRR9165185,Other,BTH (adult symptomatic CDI),43,Other
+SRR9165186,Other,BTH (adult symptomatic CDI),43,Other
+SRR9165113,Other,TCH (pediatric symptomatic CDI),43,Other
+SRR9165122,Other,TCH (pediatric symptomatic CDI),43,Other
+SRR9165141,Other,TCH (pediatric symptomatic CDI),43,Other
+SRR9165150,Other,TCH (pediatric symptomatic CDI),43,Other
+SRR9165233,Other,TCH (pediatric symptomatic CDI),43,Other
+GCF_015238635.1,Other,NCBI RefSeq,46,Other
+SRR7192373,Other,BTH (adult symptomatic CDI),46,Other
+SRR9165246,Other,BTH (adult symptomatic CDI),46,Other
+SRR9165116,Other,TCH (pediatric symptomatic CDI),46,Other
+SRR9165119,Other,TCH (pediatric symptomatic CDI),46,Other
+SRR9165153,Other,TCH (pediatric symptomatic CDI),46,Other
+GCA_018787215.1,P6-1_like,NCBI GenBank,47,Other
+GCA_019175105.2,P6-1_like,NCBI GenBank,47,Other
+GCA_021363875.1,P6-1_like,NCBI GenBank,47,Other
+GCA_901003235.1,P6-1_like,NCBI GenBank,47,Other
+GCF_003482065.1,Other,NCBI RefSeq,48,Other
+SRR9165239,Other,TCH (pediatric symptomatic CDI),48,Other
+GCF_014236775.1,Other,NCBI RefSeq,49,Other
+GCF_020097215.1,Other,NCBI RefSeq,49,Other
+SRR9165207,Other,BTH (adult symptomatic CDI),49,Other
+SRR9165109,Other,TCH (pediatric symptomatic CDI),49,Other
+SRR9165110,Other,TCH (pediatric symptomatic CDI),49,Other
+SRR9165178,Other,TCH (pediatric symptomatic CDI),49,Other
+GCF_018884665.1,Other,NCBI RefSeq,53,Other
+GCF_000953275.1,Other,NCBI RefSeq,54,Other
+GCF_002080065.1,Other,NCBI RefSeq,54,Other
+GCF_003313565.1,Other,NCBI RefSeq,54,Other
+GCF_018884965.1,Other,NCBI RefSeq,54,Other
+SRR7192377,Other,BTH (adult asymptomatic CDI),54,Other
+SRR7192371,Other,BTH (adult symptomatic CDI),54,Other
+SRR9165171,Other,BTH (adult symptomatic CDI),54,Other
+SRR9165172,Other,BTH (adult symptomatic CDI),54,Other
+SRR9165235,Other,TCH (pediatric symptomatic CDI),55,Other
+SRR9165135,Other,TCH (pediatric symptomatic CDI),58,Other
+SRR9165212,Other,BTH (adult symptomatic CDI),63,Other
+GCA_018686575.1,P6-1_like,NCBI GenBank,67,Other
+GCA_019168745.2,P6-1_like,NCBI GenBank,67,Other
+SRR9165125,Other,TCH (pediatric symptomatic CDI),82,Other
+GCF_003482325.1,Other,NCBI RefSeq,83,Other
+SRR9165166,Other,TCH (pediatric symptomatic CDI),83,Other
+SRR9165198,Other,TCH (pediatric symptomatic CDI),83,Other
+SRR9165180,Other,BTH (adult symptomatic CDI),95,Other
+GCF_003481965.1,Other,NCBI RefSeq,103,Other
+SRR9165145,Other,TCH (pediatric symptomatic CDI),103,Other
+SRR9165197,Other,TCH (pediatric symptomatic CDI),103,Other
+GCF_003482125.1,Other,NCBI RefSeq,109,Other
+GCF_003597875.1,Other,NCBI RefSeq,110,Other
+GCF_018884605.1,Other,NCBI RefSeq,110,Other
+GCF_018884985.1,Other,NCBI RefSeq,110,Other
+SRR9165176,Other,BTH (adult asymptomatic CDI),110,Other
+SRR9165241,Other,BTH (adult symptomatic CDI),110,Other
+GCA_900243185.1,P6-1_like,NCBI GenBank,114,Other
+GCA_901004525.1,P6-1_like,NCBI GenBank,114,Other
+GCA_901005685.1,P6-1_like,NCBI GenBank,114,Other
+GCA_018690615.1,P6-1_like,NCBI GenBank,130,Other
+GCA_019174405.2,P6-1_like,NCBI GenBank,156,Other
+GCA_019762755.1,P6-1_like,NCBI GenBank,156,Other
+GCA_020172225.1,P6-1_like,NCBI GenBank,156,Other
+GCA_020172265.1,P6-1_like,NCBI GenBank,156,Other
+GCF_018884885.1,Other,NCBI RefSeq,185,Other
+SRR9165155,Other,TCH (pediatric symptomatic CDI),185,Other
+GCA_015701595.1,P6-1_like,NCBI GenBank,188,Other
+GCA_015702785.1,P6-1_like,NCBI GenBank,188,Other
+GCA_015934555.1,P6-1_like,NCBI GenBank,188,Other
+GCA_016047355.1,P6-1_like,NCBI GenBank,188,Other
+GCA_016047535.1,P6-1_like,NCBI GenBank,188,Other
+GCA_016081955.1,P6-1_like,NCBI GenBank,188,Other
+GCA_016500225.1,P6-1_like,NCBI GenBank,188,Other
+GCA_018779465.1,P6-1_like,NCBI GenBank,188,Other
+GCA_019175745.2,P6-1_like,NCBI GenBank,188,Other
+GCA_019763915.1,P6-1_like,NCBI GenBank,188,Other
+GCA_019765935.1,P6-1_like,NCBI GenBank,188,Other
+GCA_019766705.1,P6-1_like,NCBI GenBank,188,Other
+GCA_018885045.1,P6-1_like,NCBI RefSeq,188,Other
+GCF_018885045.1,Other,NCBI RefSeq,188,Other
+SRR9165179,Other,BTH (adult symptomatic CDI),191,Other
+GCA_900243095.1,P6-1_like,NCBI GenBank,196,Other
+SRR9165174,Other,BTH (adult symptomatic CDI),201,Other
+GCF_009867095.1,Other,NCBI RefSeq,203,Other
+GCA_019768375.1,P6-1_like,NCBI GenBank,227,Other
+GCA_019174925.2,P6-1_like,NCBI GenBank,228,Other
+GCA_019763895.1,P6-1_like,NCBI GenBank,228,Other
+GCA_019765355.1,P6-1_like,NCBI GenBank,228,Other
+GCA_021360405.2,P6-1_like,NCBI GenBank,228,Other
+GCA_002300855.1,P6-1_like,NCBI GenBank,229,Other
+GCA_016077645.1,P6-1_like,NCBI GenBank,229,Other
+GCA_016079015.1,P6-1_like,NCBI GenBank,229,Other
+GCA_016079215.1,P6-1_like,NCBI GenBank,229,Other
+GCA_016079655.1,P6-1_like,NCBI GenBank,229,Other
+GCA_019763435.1,P6-1_like,NCBI GenBank,229,Other
+GCA_019765195.1,P6-1_like,NCBI GenBank,229,Other
+GCA_019768855.1,P6-1_like,NCBI GenBank,229,Other
+SRR9165227,Other,TCH (pediatric symptomatic CDI),229,Other
+GCA_018686095.1,P6-1_like,NCBI GenBank,230,Other
+GCA_015703375.1,P6-1_like,NCBI GenBank,231,Other
+GCA_015703395.1,P6-1_like,NCBI GenBank,231,Other
+GCA_016078895.1,P6-1_like,NCBI GenBank,231,Other
+GCA_018735305.1,P6-1_like,NCBI GenBank,231,Other
+GCA_019172265.2,P6-1_like,NCBI GenBank,231,Other
+GCA_019172605.2,P6-1_like,NCBI GenBank,231,Other
+GCA_019764215.1,P6-1_like,NCBI GenBank,231,Other
+GCA_900014025.1,P6-1_like,NCBI GenBank,231,Other
+SRR9165140,P6-1_like,TCH (pediatric symptomatic CDI),231,Other
+GCA_002303105.1,P6-1_like,NCBI GenBank,365,Other
+GCA_016047575.1,P6-1_like,NCBI GenBank,365,Other
+GCA_016053995.1,P6-1_like,NCBI GenBank,365,Other
+GCA_018796545.1,P6-1_like,NCBI GenBank,365,Other
+GCA_019168695.2,P6-1_like,NCBI GenBank,365,Other
+GCA_021364115.1,P6-1_like,NCBI GenBank,365,Other
+GCA_002301255.1,P6-1_like,NCBI GenBank,366,Other
+GCA_019170655.2,P6-1_like,NCBI GenBank,395,Other
+GCA_019170905.2,P6-1_like,NCBI GenBank,395,Other
+GCA_019171645.2,P6-1_like,NCBI GenBank,395,Other
+GCA_016052155.1,P6-1_like,NCBI GenBank,427,Other
+P6-1,P6-1_like,TCH (FMT for CDI),692,Other
+GCF_003490105.1,Other,NCBI RefSeq,701,Other
+SRR9165146,Other,TCH (pediatric symptomatic CDI),803,Other
+SRR9165169,Other,TCH (pediatric symptomatic CDI),804,Other
+GCA_015701475.1,P6-1_like,NCBI GenBank,805,Other
+GCA_019175025.2,P6-1_like,NCBI GenBank,868,Other
+GCA_019771515.1,P6-1_like,NCBI GenBank,885,Other
+GCA_016084035.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_016085275.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018601135.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018611445.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018711705.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018734125.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018734975.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018735345.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018735925.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018735985.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018737845.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018743625.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018755175.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018759685.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018759705.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018760645.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018761045.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018761205.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018761405.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018762725.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018766785.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018777625.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018779485.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018779525.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018780785.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018781505.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018783385.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018783465.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018786735.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018787795.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018787925.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018787965.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018788045.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018788875.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018794485.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018795845.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018796125.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018797565.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018859895.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018878295.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018943295.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_018961435.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_021434865.1,P6-1_like,NCBI GenBank,1000,Other
+GCA_021435165.1,P6-1_like,NCBI GenBank,1000,Other
+GCF_003697245.1,Other,NCBI RefSeq,1000,Other
+GCF_011045515.1,Other,NCBI RefSeq,1000,Other
