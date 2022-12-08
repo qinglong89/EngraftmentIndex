@@ -120,6 +120,13 @@ anvi-cluster-contigs -p $WorkDir/anvio7_process/SAMPLES-MERGED/PROFILE.db \
 		     --driver metabat2 \
 		     --num-threads $THREADS --just-do-it
 
+#this command will include most contigs in the output bins: by default include >2500 bp contigs, --minCV and --minCVSum are two most important parameters to include more contigs for binning
+anvi-cluster-contigs -p $WorkDir/anvio7_process/SAMPLES-MERGED/PROFILE.db \
+                     -c $WorkDir/anvio7_process/contigs.db \
+                     --collection-name metabat2_refined \
+                     --driver metabat2 \
+                     -m 1500 --minCV 0.01 --minCVSum 0.1 --minClsSize 100000 \
+                     --num-threads $THREADS --just-do-it
 
 #########################################################################################################################################
 ##################################"Step 5: gene-level taxonomy & gene function"##########################################################
